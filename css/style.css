@@ -1,0 +1,67 @@
+
+/* Header Section Styles */
+.header-area{
+    background-color: #264653;
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.header-area p{
+    font-size: 14px;
+}
+
+.btn{
+    background-color: #E76F51;
+    padding: 10px 20px;
+}
+
+/* Featured Bikes Styles */
+.feature{
+    padding: 50px;
+}
+
+.p{
+    color: #E76F51;
+}
+
+.first{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+
+/* Clients Section Styles */
+.user-card{
+    border: 1px solid #DEDEDE;
+}
+
+.card-p{
+    color: #6C6C6C;
+}
+
+.filled{
+    color: #E77C40;
+    font-size: 18px;
+}
+
+.empty{
+    color:#E77C40;
+}
+
+.name{
+    color: #23A6F0;
+}
+
+/* FAQ section Styles */
+.acc-btn{
+    background-color: transparent !important;
+    color: #383838 !important;
+    border: none;
+    padding: 16px 20px;
+    text-align: left;
+}
