@@ -1,6 +1,6 @@
 
 /* Header Section Styles */
-.header-area{
+.bg-main{
     background-color: #264653;
 }
 .banner-area{
@@ -75,6 +75,13 @@ h1{
 }
 
 /* Subscribe Section styles */
+
+.social-media i{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
 .f{
     color: darkblue;
     cursor: pointer;
